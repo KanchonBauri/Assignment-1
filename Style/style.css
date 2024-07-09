@@ -118,3 +118,15 @@ color: rgb(82, 78, 78);
 .section2{
     flex-direction: row-reverse;
 }
+
+/* second section */
+.second{
+    width: 1140px;
+    height: 700px;
+    margin: 0px auto;
+    margin-top: 90px;
+}
+
+.video{
+    margin: 0px auto;
+}
