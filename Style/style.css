@@ -130,3 +130,50 @@ color: rgb(82, 78, 78);
 .video{
     margin: 0px auto;
 }
+
+/* box section  */
+.boxs{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.box{
+    width: 350px;
+    height: 299px;
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    
+}
+.box h2{
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.box p{
+    color: gray;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+.box-button{
+font-size: 16px;
+font-weight: 700;
+font-family: Azeret Mono;
+color: rgb(13, 19, 33);
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+
+.box3{
+    background-color: rgba(255, 223, 0, 0.05);
+}
